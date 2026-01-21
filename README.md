@@ -102,9 +102,7 @@ names:
 This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
 
 ```bash
-Would you like me to generate a specific `data.yaml` template file to go along with this README?
-
-For a visual walkthrough on how to set this up, you might find this [YOLOv8 Custom Dataset Tutorial](https://www.youtube.com/watch?v=-QRVPDjfCYc) helpful as it covers the end-to-end process from data preparation to training.
-
-http://googleusercontent.com/youtube_content/0
+For a visual walkthrough on how to set this up, you might find this
+[YOLOv8 Custom Dataset Tutorial](https://www.youtube.com/watch?v=-QRVPDjfCYc)
+helpful as it covers the end-to-end process from data preparation to training.
 ```

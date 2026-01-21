@@ -100,9 +100,3 @@ names:
   
 ## 📄 License
 This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
-
-```bash
-For a visual walkthrough on how to set this up, you might find this
-[YOLOv8 Custom Dataset Tutorial](https://www.youtube.com/watch?v=-QRVPDjfCYc)
-helpful as it covers the end-to-end process from data preparation to training.
-```
